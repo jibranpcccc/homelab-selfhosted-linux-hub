@@ -1,0 +1,509 @@
+[
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-1",
+    "title": "r/homeassistant Open Source Automation",
+    "platform": "Reddit",
+    "category": "Home Assistant",
+    "memberCount": "340,000+ members",
+    "description": "The premier community for Home Assistant installations, custom dashboards, automations, and integrations.",
+    "joinUrl": "https://www.reddit.com/r/homeassistant/",
+    "tags": [
+      "homeassistant",
+      "smarthome",
+      "iot",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-discord-2",
+    "title": "Home Assistant Official Discord",
+    "platform": "Discord",
+    "category": "Home Assistant",
+    "memberCount": "170,000+ members",
+    "description": "Real-time support, configuration troubleshooting, Lovelace dashboard showcases, and beta testing.",
+    "joinUrl": "https://discord.gg/home-assistant",
+    "tags": [
+      "homeassistant",
+      "discord",
+      "iot",
+      "automation"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-forum-3",
+    "title": "Home Assistant Community Forum",
+    "platform": "Forum",
+    "category": "Home Assistant",
+    "memberCount": "220,000+ members",
+    "description": "Official forum for blueprints, architectural proposals, hardware compatibility lists, and custom component releases.",
+    "joinUrl": "https://community.home-assistant.io",
+    "tags": [
+      "homeassistant",
+      "blueprints",
+      "forum",
+      "official"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-4",
+    "title": "r/smarthome Connected Living & IoT",
+    "platform": "Reddit",
+    "category": "Smart Home",
+    "memberCount": "270,000+ members",
+    "description": "Smart home product comparisons, ecosystem architecture (Matter, Thread, Zigbee), and lighting automation.",
+    "joinUrl": "https://www.reddit.com/r/smarthome/",
+    "tags": [
+      "smarthome",
+      "matter",
+      "thread",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-5",
+    "title": "r/homelab Self-Hosted Servers & Hardware",
+    "platform": "Reddit",
+    "category": "Homelab",
+    "memberCount": "720,000+ members",
+    "description": "Rackmount servers, mini PCs, hypervisors (Proxmox/ESXi), UPS telemetry, and private cloud hosting.",
+    "joinUrl": "https://www.reddit.com/r/homelab/",
+    "tags": [
+      "homelab",
+      "proxmox",
+      "hardware",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-discord-6",
+    "title": "Homelab & IoT Guild Discord",
+    "platform": "Discord",
+    "category": "Homelab",
+    "memberCount": "60,000+ members",
+    "description": "Active community discussing self-hosting, Docker services, network segmentation, and ZFS storage.",
+    "joinUrl": "https://discord.gg/homelab",
+    "tags": [
+      "homelab",
+      "selfhosted",
+      "networking",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-7",
+    "title": "r/homeautomation Protocols & Custom Logic",
+    "platform": "Reddit",
+    "category": "Home Automation",
+    "memberCount": "2,100,000+ members",
+    "description": "Comprehensive resource for smart home hardware, relays, motorized shades, presence sensors, and scripts.",
+    "joinUrl": "https://www.reddit.com/r/homeautomation/",
+    "tags": [
+      "automation",
+      "sensors",
+      "relays",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-8",
+    "title": "r/Zigbee Low-Power Mesh Networking",
+    "platform": "Reddit",
+    "category": "Zigbee",
+    "memberCount": "45,000+ members",
+    "description": "Dedicated discussion on Zigbee coordinators, Zigbee2MQTT, router devices, channel interference, and pairing.",
+    "joinUrl": "https://www.reddit.com/r/Zigbee/",
+    "tags": [
+      "zigbee",
+      "zigbee2mqtt",
+      "mesh",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-9",
+    "title": "r/esp8266 Microcontrollers & Sensors",
+    "platform": "Reddit",
+    "category": "Microcontrollers",
+    "memberCount": "85,000+ members",
+    "description": "ESP8266 Wi-Fi modules, NodeMCU circuits, custom environmental telemetry sensors, and low-cost relays.",
+    "joinUrl": "https://www.reddit.com/r/esp8266/",
+    "tags": [
+      "esp8266",
+      "hardware",
+      "sensors",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-10",
+    "title": "r/esp32 High-Performance IoT Firmware",
+    "platform": "Reddit",
+    "category": "ESP32",
+    "memberCount": "110,000+ members",
+    "description": "Dual-core ESP32 projects, BLE proxies, camera streaming, FreeRTOS tasks, and custom PCB designs.",
+    "joinUrl": "https://www.reddit.com/r/esp32/",
+    "tags": [
+      "esp32",
+      "bluetooth",
+      "esphome",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-11",
+    "title": "r/raspberry_pi Edge Compute & SBC Hub",
+    "platform": "Reddit",
+    "category": "Raspberry Pi",
+    "memberCount": "3,200,000+ members",
+    "description": "Raspberry Pi single board computers, GPIO interfaces, Pi-hole DNS sinks, and edge Home Assistant hubs.",
+    "joinUrl": "https://www.reddit.com/r/raspberry_pi/",
+    "tags": [
+      "raspberrypi",
+      "sbc",
+      "gpio",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-12",
+    "title": "r/linux Embedded Systems & Kernels",
+    "platform": "Reddit",
+    "category": "Linux",
+    "memberCount": "1,100,000+ members",
+    "description": "Linux distributions, systemd services, SSH remote management, and headless home server administration.",
+    "joinUrl": "https://www.reddit.com/r/linux/",
+    "tags": [
+      "linux",
+      "headless",
+      "sysadmin",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-13",
+    "title": "r/docker Containerized Home Servers",
+    "platform": "Reddit",
+    "category": "Docker",
+    "memberCount": "210,000+ members",
+    "description": "Docker Compose templates, container networking, persistent volume mounts, and automated updates.",
+    "joinUrl": "https://www.reddit.com/r/docker/",
+    "tags": [
+      "docker",
+      "compose",
+      "containers",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-14",
+    "title": "r/Python Home Assistant Scripting",
+    "platform": "Reddit",
+    "category": "Python",
+    "memberCount": "1,250,000+ members",
+    "description": "Developing custom Python components, AppDaemon scripts, and async API bridges for Home Assistant.",
+    "joinUrl": "https://www.reddit.com/r/Python/",
+    "tags": [
+      "python",
+      "appdaemon",
+      "scripting",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-discord-15",
+    "title": "Python Developers Official Discord",
+    "platform": "Discord",
+    "category": "Python",
+    "memberCount": "430,000+ members",
+    "description": "Real-time help with Python coding, automation scripts, and asynchronous event loops.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "asyncio",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-telegram-16",
+    "title": "Python Automation Scripts Telegram",
+    "platform": "Telegram",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Curated daily automation scripts, network sniffers, and MQTT telemetry listeners.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "telegram",
+      "automation",
+      "scripts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-discord-17",
+    "title": "The Programmer's Hangout Discord",
+    "platform": "Discord",
+    "category": "Software",
+    "memberCount": "220,000+ members",
+    "description": "Large multi-language software engineering Discord covering algorithms, embedded code, and automation.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "embedded",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-18",
+    "title": "r/programming Automation Logic & Firmware",
+    "platform": "Reddit",
+    "category": "Programming",
+    "memberCount": "5,800,000+ members",
+    "description": "Broad programming discussions on robust state machines, asynchronous event queues, and software architecture.",
+    "joinUrl": "https://www.reddit.com/r/programming/",
+    "tags": [
+      "programming",
+      "architecture",
+      "state-machine",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-19",
+    "title": "r/rust Embedded & Concurrency Hub",
+    "platform": "Reddit",
+    "category": "Rust",
+    "memberCount": "280,000+ members",
+    "description": "Rust language for embedded microcontrollers, memory safety without garbage collection, and real-time control.",
+    "joinUrl": "https://www.reddit.com/r/rust/",
+    "tags": [
+      "rust",
+      "embedded",
+      "concurrency",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-forum-20",
+    "title": "Rust User Community Forum",
+    "platform": "Forum",
+    "category": "Rust Forum",
+    "memberCount": "70,000+ members",
+    "description": "Official forum for Rust engineers developing embedded crates, network protocols, and high-reliability systems.",
+    "joinUrl": "https://users.rust-lang.org",
+    "tags": [
+      "rust",
+      "embedded",
+      "official",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-discord-21",
+    "title": "Rust Systems Discord Community",
+    "platform": "Discord",
+    "category": "Rust Discord",
+    "memberCount": "95,000+ members",
+    "description": "Discussions on no_std programming, async traits, embedded-hal drivers, and firmware engineering.",
+    "joinUrl": "https://discord.gg/rust-lang",
+    "tags": [
+      "rust",
+      "embedded",
+      "firmware",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-telegram-22",
+    "title": "Rust Firmware & Embedded News Telegram",
+    "platform": "Telegram",
+    "category": "Rust News",
+    "memberCount": "32,000+ members",
+    "description": "Real-time updates on Rust embedded drivers, framework releases, and performance benchmarks.",
+    "joinUrl": "https://t.me/rust_lang_news",
+    "tags": [
+      "telegram",
+      "rust",
+      "firmware",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-23",
+    "title": "r/cpp Firmware & Real-Time Control",
+    "platform": "Reddit",
+    "category": "C++",
+    "memberCount": "310,000+ members",
+    "description": "Modern C++ (C++20/C++23) for microcontroller firmware, Arduino libraries, and low-latency serial buses.",
+    "joinUrl": "https://www.reddit.com/r/cpp/",
+    "tags": [
+      "cpp",
+      "firmware",
+      "microcontroller",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-discord-24",
+    "title": "Tech Community Discord",
+    "platform": "Discord",
+    "category": "Tech",
+    "memberCount": "55,000+ members",
+    "description": "General technology discussions covering smart devices, consumer hardware teardowns, and home networking.",
+    "joinUrl": "https://discord.gg/tech",
+    "tags": [
+      "tech",
+      "hardware",
+      "networking",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-telegram-25",
+    "title": "Cloud Native Infrastructure Telegram",
+    "platform": "Telegram",
+    "category": "Infrastructure",
+    "memberCount": "36,000+ members",
+    "description": "Cloud-native edge deployments, lightweight k3s clusters, and localized metrics monitoring.",
+    "joinUrl": "https://t.me/cloud_native_hub",
+    "tags": [
+      "telegram",
+      "cloud-native",
+      "k3s",
+      "edge"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-discord-26",
+    "title": "Devcord IoT & Web Developer Discord",
+    "platform": "Discord",
+    "category": "Devcord",
+    "memberCount": "75,000+ members",
+    "description": "Web interfaces and custom WebSockets dashboards for connected hardware and IoT sensors.",
+    "joinUrl": "https://discord.gg/devcord",
+    "tags": [
+      "devcord",
+      "websockets",
+      "dashboards",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-reddit-27",
+    "title": "r/webdev Local Dashboards & Web UI",
+    "platform": "Reddit",
+    "category": "Web Dev",
+    "memberCount": "2,200,000+ members",
+    "description": "Building responsive browser dashboards, Tailwind CSS controls, and fast real-time UI widgets.",
+    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "tags": [
+      "webdev",
+      "ui",
+      "dashboards",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-forum-28",
+    "title": "Hacker News Hardware & IoT Discussions",
+    "platform": "Forum",
+    "category": "Hacker News",
+    "memberCount": "5,000,000+ members",
+    "description": "Deep-dive technical discussions on smart home privacy, local-first computing, and open-source hardware.",
+    "joinUrl": "https://news.ycombinator.com",
+    "tags": [
+      "ycombinator",
+      "local-first",
+      "privacy",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-telegram-29",
+    "title": "Web Developers Hub Telegram",
+    "platform": "Telegram",
+    "category": "Web Dev",
+    "memberCount": "48,000+ members",
+    "description": "Daily curated articles covering modern web protocols, WebRTC, and browser standards.",
+    "joinUrl": "https://t.me/webdev_hub",
+    "tags": [
+      "telegram",
+      "webdev",
+      "webrtc",
+      "standards"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "homelab-self-hosted-linux-hub-telegram-30",
+    "title": "TechCrunch Smart Home & IoT Releases",
+    "platform": "Telegram",
+    "category": "Tech News",
+    "memberCount": "65,000+ members",
+    "description": "Industry announcements from Matter alliance partners, smart home hardware makers, and robotics.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "matter",
+      "smarthome",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
