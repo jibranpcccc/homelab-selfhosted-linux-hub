@@ -4,10 +4,17 @@
     <title>HomeLab &amp; Self-Hosted Linux Hub</title>
     <link>https://homelab-selfhosted-linux-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:48:11 GMT</lastBuildDate>
     <atom:link href="https://homelab-selfhosted-linux-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                <item>
+                    <item>
+      <title>📅 Today's Fresh Pick: Kubernetes Community Discord (Discord)</title>
+      <link>https://discuss.kubernetes.io</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-discord-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 10:48:11 GMT</pubDate>
+      <description>Newly verified community added to HomeLab &amp; Self-Hosted Linux Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
       <link>https://www.reddit.com/r/aws/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-reddit-20260914-1-2026-09-14</guid>
