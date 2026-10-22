@@ -4,10 +4,17 @@
     <title>HomeLab &amp; Self-Hosted Linux Hub</title>
     <link>https://homelab-selfhosted-linux-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:04:16 GMT</lastBuildDate>
     <atom:link href="https://homelab-selfhosted-linux-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                        <item>
+                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
+      <link>https://www.reddit.com/r/science/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-reddit-20261005-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:04:16 GMT</pubDate>
+      <description>Newly verified community added to HomeLab &amp; Self-Hosted Linux Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
       <link>https://www.reddit.com/r/science/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-reddit-20261005-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-discord-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:03:56 GMT</pubDate>
       <description>Newly verified community added to HomeLab &amp; Self-Hosted Linux Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/golang/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-reddit-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:03:54 GMT</pubDate>
-      <description>Newly verified community added to HomeLab &amp; Self-Hosted Linux Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
     </item>
   </channel>
 </rss>
