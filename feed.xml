@@ -4,10 +4,17 @@
     <title>HomeLab &amp; Self-Hosted Linux Hub</title>
     <link>https://homelab-selfhosted-linux-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 06:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:56:42 GMT</lastBuildDate>
     <atom:link href="https://homelab-selfhosted-linux-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                    <item>
+                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
+      <link>https://www.reddit.com/r/science/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-reddit-20261005-1-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 06:56:42 GMT</pubDate>
+      <description>Newly verified community added to HomeLab &amp; Self-Hosted Linux Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
       <link>https://www.reddit.com/r/science/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-reddit-20261005-1-2026-10-29</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-forum-20261001-1-2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 07:55:49 GMT</pubDate>
       <description>Newly verified community added to HomeLab &amp; Self-Hosted Linux Hub: The world's largest repository of solved Python questions, debugging threads, and code snippets.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
-      <link>https://github.com/vercel/next.js/discussions</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/homelab-selfhosted-linux-hub/#homelab-selfhosted-linux-hub-github-20260930-1-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 06:18:35 GMT</pubDate>
-      <description>Newly verified community added to HomeLab &amp; Self-Hosted Linux Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
     </item>
   </channel>
 </rss>
